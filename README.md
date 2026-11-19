@@ -11,8 +11,8 @@ Turowa gra przeglądarkowa RPG tworzona w czystym **HTML, CSS i JavaScript**, os
 
 ### 🛠️ Technologie i obszary rozwoju
 * **Web & Gry:** HTML5, CSS3, JavaScript, GitHub Pages
-* **Analiza danych i automatyzacja:** Microsoft Excel (zaawansowane formuły, funkcje bazodanowe), język **R**
-* **Hardware i prototypowanie:** Arduino Uno, druk 3D (modelowanie w Tinkercad, druk FDM)
+* **Analiza danych i automatyzacja:** Microsoft Excel (zaawansowane formuły, funkcje bazodanowe)
+* **Hardware i prototypowanie:** Arduino Uno, druk 3D
 
 ---
 
